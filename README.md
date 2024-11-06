@@ -10,7 +10,7 @@
 ## Curso Python NetaCad
 |Modulo|Prueba|
 |--|--|
-|Mpdulo 1|<img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b&quot" width="100"/>|
+|Mpdulo 1|<img src="https://github.com/CanoHernandezI/EvaluacionUnidad_II/tree/main/Curso_Python_NetAcad/ExamModulo1.png" width="100"/>|
 |Mpdulo 2||
 |Mpdulo 3||
 |Mpdulo 4||
