@@ -3,6 +3,9 @@
 ## Ejercicio Integral
 
 ## Ejercicios en Clasea
+|Modulo|Prueba|Descripción|
+|--|--|--|
+|Modulo 1|<video><source src="" type="video/mp4"></video>|Hola|
 
 ## Avance Muñeco Navideño
 
