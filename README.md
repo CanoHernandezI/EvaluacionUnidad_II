@@ -1,10 +1,11 @@
 # IoT_EvaluacionUnidad_II_IsaacCanoHernandez
 
-|Codigo  |Video|Descripción|
-|--|--|--|
-|Ejercicio|<video><source src="" type="video/mp4"></video>|Hola|
-
 ## Ejercicio Integral
+|Codigo|Video y Circuito|
+|--|--|
+|[Ejercicio](https://github.com/CanoHernandezI/EvaluacionUnidad_II/blob/main/Ejercicio_Practico_Integral/EjercicioIntegralEvaluacion.py)|https://drive.google.com/file/d/113DoCUeINWPoJnq0SyxlRNtM1KMILoBc/view?usp=sharing|
+
+Descripcion: En este ejercicio, se utilizó un potenciómetro para mostrar en una pantalla OLED el nivel ajustado desde el potenciómetro. Según el nivel registrado, se activaban diferentes colores en un LED RGB: Si el nivel era menor al 30%, el LED mostraba el color verde, si el nivel era mayor al 30% pero menor al 60%, el LED mostraba el color azul, si el nivel superaba el 60%, el LED mostraba el color rojo. Además, si el nivel rebasaba el 60%, se emitía un sonido de alerta mediante un buzzer.
 
 ## Ejercicios en Clases
 |Ejercicio|Video|Descripción|
@@ -25,6 +26,11 @@
 
 
 ## Avance Muñeco Navideño
+|Codigo Avance|Video Avance y Circuito|
+|--|--|
+|https://github.com/CanoHernandezI/EvaluacionUnidad_II/blob/main/Avance_ProyectoNavide%C3%B1o/Avance_Prototipo.py|[https://drive.google.com/file/d/113DoCUeINWPoJnq0SyxlRNtM1KMILoBc/view?usp=sharing](https://drive.google.com/file/d/1txBxF1XODejd57og69yPOXfRV_Ngc5KD/view?usp=sharing)|
+
+Avances Logrados: En este avance de circuitos y programación, hemos logrado conectar y programar los componentes necesarios para dar movilidad al muñeco. Esto se ha logrado mediante el uso de dos servomotores, que controlan sus movimientos, y dos LED que simulan los ojos, encendiéndose al detectar proximidad a través de un sensor ultrasónico. Aún tenemos pendiente agregar un buzzer para simular un sonido y un sensor DHT (de temperatura) para controlar el movimiento de los componentes según ciertas condiciones. Además, planeamos modelar el diseño y la base para darle al muñeco un estilo navideño.
 
 ## Curso Python NetaCad
 |Modulo|Prueba|
